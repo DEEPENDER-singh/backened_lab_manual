@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "urlshortner_16_april",
+=======
+  "name": "crudoperations",
+>>>>>>> c5aa7824bd052d1ad85d0c60ac46e1e45192d1e2
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -10,9 +14,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+<<<<<<< HEAD
     "ejs": "^5.0.2",
     "express": "^5.2.1",
     "mongoose": "^9.5.0",
     "nanoid": "^3.3.11"
+=======
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+>>>>>>> c5aa7824bd052d1ad85d0c60ac46e1e45192d1e2
   }
 }
